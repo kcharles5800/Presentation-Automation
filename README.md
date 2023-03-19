@@ -1,7 +1,7 @@
 
 # A Python based Automation program to make powerpoint presentation of songs
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3775A9?style=for-the-badge&logo=pypi&logoColor=white
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 
 ## Overview
 This python project was built for my church to make powerpoint presentations of song lyrics in tamil & english.
