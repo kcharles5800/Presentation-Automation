@@ -17,3 +17,6 @@ The [data_scraping.py](/data_scraping.py) is the python file which has the class
 > ### Making the powerpoint presentation
 - This part of the process is implemented using the [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/).  
 Note that this part of the process is highly subjective and might not work without customization.
+
+
+####  I will be working on building a more system-independent code in the future.
