@@ -1,5 +1,5 @@
 
-# A Python Based Automation program to make powerpoint presentation of songs
+# A Python based Automation program to make powerpoint presentation of songs
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/Pyautogui-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 
