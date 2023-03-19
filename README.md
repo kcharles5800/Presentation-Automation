@@ -11,7 +11,7 @@ This python project was built for my church to make powerpoint presentations of 
 The process of this automation can be broken down into two parts:
 
 > ### Scraping data
-- The required lyrics are scraped from a website named [Tamil Christian Songs](https://tamilchristiansongs.in/tamil/) using the [Selenium](https://www.selenium.dev/documentation/) . I will be migrating to some other website soon as the data in this website is unkempt and raises a lot of edge cases.  
+- The required lyrics are scraped from a website named [Tamil Christian Songs](https://tamilchristiansongs.in/tamil/) using [Selenium](https://www.selenium.dev/documentation/) . I will be migrating to some other website soon as the data in this website is unkempt and raises a lot of edge cases.  
 The [data_scraping.py](/data_scraping.py) is the python file which has the class with the method to do the same.
 
 > ### Making the powerpoint presentation
